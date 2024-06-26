@@ -1,0 +1,11 @@
+sympy
+pandas
+mlflow
+asyncio
+argparse
+llama-index
+nest_asyncio
+bitsandbytes
+llama-index-embeddings-huggingface
+llama-index-embeddings-instructor
+llama_index.llms.huggingface
